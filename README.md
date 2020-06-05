@@ -93,9 +93,9 @@ input[type = text] {
             
   
     
-          </form>
+       
           <div id="agh">
-          <img src = "b.jpg">
+          <img src = "b.jpg"/>
 
           </div>
         </div>
