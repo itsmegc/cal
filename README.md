@@ -68,7 +68,7 @@ input[type = text] {
     <body>
         <div id='calc-contain'>
   
-          
+             <form name="calculator">
             
             <input type="text" name="answer" />
         
@@ -97,7 +97,7 @@ input[type = text] {
             <input type="button" value=" / " onclick="calculator.answer.value += '/'" />
             
   
-    
+    </form>
        
           <div id="agh">
       
