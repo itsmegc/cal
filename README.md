@@ -29,8 +29,8 @@
 }
 
 #agh .x{
-width: 100px;
-    height: 75px;}
+width: 100px !important;
+    height: 75px !important;}
 
 input[type=button] {
   background: lightGray;
