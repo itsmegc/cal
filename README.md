@@ -27,6 +27,11 @@
   font-size: 20px;
   font-weight: 900;
 }
+
+#agh .x{
+width: 100px;
+    height: 75px;}
+
 input[type=button] {
   background: lightGray;
   width: 20%;
@@ -96,7 +101,7 @@ input[type = text] {
        
           <div id="agh">
       
-          <img src = "b.jpg" alt="Sarcasm God" width="200" height="300"/>
+          <img src = "b.jpg" class="x" alt="Sarcasm God" />
             
 
           </div>
