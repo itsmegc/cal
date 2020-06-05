@@ -101,7 +101,7 @@ input[type = text] {
        
           <div id="agh">
       
-          <img src = "b.jpg" class="x" alt="Sarcasm God" />
+          <img src = "b.png" class="x" alt="Sarcasm God" />
             
 
           </div>
