@@ -96,8 +96,8 @@ input[type = text] {
        
           <div id="agh">
       
-          <img src = "b.jpg"/>
-              <p>Sarcasm god>
+          <img src = "b.jpg" alt="Sarcasm God" width="200" height="300"/>
+            
 
           </div>
         </div>
